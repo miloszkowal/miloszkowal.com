@@ -1,7 +1,7 @@
 ---
 title: "You Could've Walked, or Silicon Valley's Environmental Folly"
 date: 2020-01-07T09:04:54-05:00
-draft: true
+draft: false
 ---
 
 I recently stumbled across this post by an executive at a Silicon Valley company:
