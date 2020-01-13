@@ -1,6 +1,6 @@
 baseURL: https://quirky-kare-88c1f1.netlify.com
 languageCode: en-us
-title: Milosz's Experiments in Automation
+title: The Online Home of Milosz Kowal
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-35775134-5
 
@@ -36,7 +36,7 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to Milosz's website. Have a look around. Maybe even eat some ice cream.
+  homeText: Welcome to Milosz's website. Have a look around.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: true
 
