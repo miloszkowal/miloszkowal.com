@@ -1,7 +1,7 @@
 baseURL: https://quirky-kare-88c1f1.netlify.com
 languageCode: en-us
-title: Milosz's Experiments in Automation
-theme: vanilla-bootstrap-hugo-theme
+title: Milosz Kowal | Artisan
+theme: LeaveIt
 googleAnalytics: UA-35775134-5
 
 taxonomies:
@@ -13,11 +13,7 @@ permalinks:
 # See https://feathericons.com/
 # The value of pre is the icon name
 menu:
-  nav:
-  - name: Home
-    pre: home
-    url: /
-    weight: 1
+  main:
   - name: Blog
     pre: edit
     url: /posts/
