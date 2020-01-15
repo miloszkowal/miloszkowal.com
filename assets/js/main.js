@@ -49,7 +49,7 @@ jQuery(function($) {
 
     $(document).ready(function() {
         _Blog.prettify()
-        _Blog.changeTitle()
+        // _Blog.changeTitle()
         _Blog.toggleTheme()
         _Blog.toggleMobileMenu()
     });
