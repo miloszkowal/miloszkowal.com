@@ -1,7 +1,7 @@
 baseURL: https://quirky-kare-88c1f1.netlify.com
 languageCode: en-us
 title: Milosz Kowal | Artisan
-theme: LeaveIt
+theme: coder
 googleAnalytics: UA-35775134-5
 
 taxonomies:
@@ -32,6 +32,8 @@ menu:
     weight: 5
 
 params:
+  since: 2010
+  author: "Milosz Kowal"
   includeBootstrapJs: false
   showActiveNav: true
   containerMaxWidth: 700px
