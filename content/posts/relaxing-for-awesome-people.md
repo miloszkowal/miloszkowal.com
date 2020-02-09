@@ -1,24 +1,26 @@
 ---
 title: "Relaxing for Awesome People"
-date: 2019-12-18T13:12:12-05:00
+date: 2020-02-08T13:12:12-05:00
 draft: true
 ---
 
 ## Introduction, or Why Even Relax?
 
-In the book Your Money or Your Life, Joe Dominguez and Vicki Robin describe that in a time before electricity, people only worked for three hours a day. This means that they spent the rest of the time working on their own personal pursuits, which were mostly family oriented. Those in positions of what we now consider "white collar work," might take on other activities, such as hunting, reading, etc. (assuming literacy, of course). However, no matter your position on the social totem pole, you took the initiative to relax, in whatever way suited you. This served as a way to recharge your mind and your body (mostly the latter, as a lot of work back in those days was manual labor), and also take the time to work on your community affairs, especially religious life and family bonding. Studies time and time again showed that meaningful connection is the key to long-lasting happiness and life satisfaction, and our serf ancestors seem to have understood that implicitly. So what's changed?
+In the book *Your Money or Your Life*, Joe Dominguez and Vicki Robin describe that in a time before electricity, people only worked for three hours a day. This means that they spent the rest of the time working on their own personal pursuits, which were mostly family oriented. Those in positions of what we now consider "white collar work," might take on other activities, such as hunting, reading, etc. (assuming literacy, of course). However, no matter your position on the social totem pole, you took the initiative to relax, in whatever way suited you. This served as a way to recharge your mind and your body (mostly the latter, as a lot of work back in those days was manual labor), and also take the time to work on your community affairs, especially religious life and family bonding. Studies time and time again showed that meaningful connection is the key to long-lasting happiness and life satisfaction, and our serf ancestors seem to have understood that implicitly. So what's changed?
 
 ## The Modern, Wasteful View of Relaxation
 
-You see it everywhere, particularly around people my age (in their 20s) - going out virtually every night, especially on Friday nights, maxing out their credit cards drinking very expensive martinis. Then they take a look at their bank account and “Holy crap, how do I have negative eight dollars here?" These kinds of people usually use much more colorful language.
+Part of the change can be attributed to the rise of the "information economy." As more and more people migrate from the rural areas to urban cities, their likelihood to engage in manual labor decreases. Case in point, myself. The most manual labor that I do is replanting my plants when it's time to move them into a new pot. And yet my body and mind long for a return to hard work on a farm, mostly expressed by blasting John Denver. I believe that most folks, especially folks in their early 20s and 30s, are held hostage by the information around them, in the form of their phones (yes, I know, "phones bad" isn't a valid argument), advertising, cable TV, etc. And this need for constant information input has bled into the sphere of relaxation.
 
-This is the modern view of relaxation - spending lots of money, leaving the house (or sometimes never leaving the house), and in general just wasting your life away on pursuits that if we really ask ourselves, don't give us much life satisfaction, but in fact leave us craving more. If you ask people how many hours a day or a week they waste, it usually comes out to about 4 hours a day - things like watching YouTube videos that you don’t really care about, general procrastination, and anything else that takes us away from the task we should actually be doing, whether it is work, school, or our familial obligations. Those that tell you they waste no time are either Elon Musk or they're lying. And who knows, maybe Elon Musk is reading this blog. In this case, hi!
+You see it everywhere - going out virtually every night, especially on Friday nights, maxing out their credit cards drinking very expensive martinis. Then they take a look at their bank account and “Holy crap, how do I have negative eight dollars here?" These kinds of people usually use much more colorful language. Of course, this is slightly exaggerating, but the general gist is the same - a lack of mindfulness about where their money is going.
+
+This is the modern view of relaxation - spending lots of money, leaving the house (or sometimes never leaving the house), and in general just wasting your life away on pursuits that if we really ask ourselves, don't give us much life satisfaction, but in fact leave us craving more.[^1] If you ask people how many hours a day or a week they waste, it usually comes out to about 4 hours a day[^2] - things like watching YouTube videos that you don’t really care about, general procrastination, and anything else that takes us away from the task we should actually be doing, whether it is work, school, or our familial obligations. Those that tell you they waste no time are either Elon Musk or they're lying.
 
 What if I told you there’s a different way to handle this? A different way to be leisurely, and in turn, a more awesome way to refresh your mind and body to do the things that you’re really born to do. Introducing the concept of Intentional Relaxation (IR), which will be the way you relax from now on.
 
 ## The Anatomy of Intentional Relaxation
 
-But what is IR? First of all, it’s a system of looking at the world with pure intentionality. In my codex vitae, one of my core tenets is that I do everything with a sense of purpose. I’m not perfect about it, but I do a damn good job being mindful of the time I spend and what I spend it on. Applying the mode of mindfulness or intentionality to your relaxation is the next natural step. This means taking the time to be mindful of your relaxation, and maybe even organize and schedule it.
+But what is IR? First of all, it’s a system of looking at the world with pure intentionality. In my codex vitae[^3], one of my core tenets is that I do everything with a sense of purpose. I’m not perfect about it, but I do a damn good job being mindful of the time I spend and what I spend it on. Applying the mode of mindfulness or intentionality to your relaxation is the next natural step. This means taking the time to be mindful of your relaxation, and maybe even organize and schedule it.
 
 Of course, I can already hear the protesters coming out of the woodwork holding their pitchforks screaming “he wants to organize our relaxation! Is nothing sacred anymore?” Some believe that in order to be truly relaxed, it must happen organically. But if we do our best work by putting it in writing in a calendar and then setting these appointments with ourselves, why can’t we do the same things with our leisure time? Of course we can. Much like everything else, it is only a matter of actually sitting down and committing to do something and make the change.
 
@@ -41,5 +43,11 @@ The core of relaxation should be yourself and bringing yourself back into the wo
 Leisure and relaxation need to be what happens during your breaks, instead of your work happening during those breaks and you surfing Reddit during the times when you should be working (I was guilty of that myself).
 
 So go out there and relax.
+
+## Footnotes and References
+
+[^1]: This is not to imply that these pursuits are wasteful. I'm saying that an overabundance of these kinds of pursuits is wasteful. Most of modern life is, in the words of Mr. Money Mustache, "an exploding volcano of wastefulness," and it's our responsibility (I would argue duty) to reduce this waste, as a benefit to ourselves, our society, and our planet.
+[^2]: Here be link to Jordan Peterson YouTube Video
+[^3]: Here be link to codex vitue on website - migrate it from Github
 
 
