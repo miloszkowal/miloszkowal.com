@@ -24,7 +24,7 @@ For the purposes of this post, let's work with the following Habit List:
 * Exercise
 * Gratitude
 
-You can see more good habits to establish [here](https://www.developgoodhabits.com/good-daily-habits-list/)
+You can see more good habits to establish [here](https://www.developgoodhabits.com/good-daily-habits-list/).
 
 # What is Habitify and How to Use It
 
