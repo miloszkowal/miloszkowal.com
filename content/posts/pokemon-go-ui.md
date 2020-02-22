@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2016-07-30T13:46:23-05:00
 title = "Pokémon Go UI - A Case Study in Interface Aesthetics"
 description = ""
