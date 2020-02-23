@@ -14,7 +14,7 @@ I was recently hired for a rather peculiar Photoshop job: place the elements of 
 
 ![](/img/pokemon_go_ui1.jpg)
 
-It was actually a pretty fun project, and it only took about an hour. I'll probably do a tutorial on how to recreate the Pokémon Go UI and post it online for those interested. However, the project got me thinking about the importance of good interface aesthetics when it comes to photography, design, and media creation. This relates largely to photographic composition, as the path the eye travels across the image has to be efficient. The same is true for any interface, particularly those of mobile apps: elements of the UI have to be easily accessible, correctly and visibly labeled, and responsive immediately. If the interface fails in any of the these three aspects, then the app is ruined. So let's go look at some key interactions in Pokémon Go, and dissect them.
+It was actually a pretty fun project, and it only took about an hour. It got me thinking about the importance of good interface aesthetics when it comes to photography, design, and media creation. This relates largely to photographic composition, as the path the eye travels across the image has to be efficient. The same is true for any interface, particularly those of mobile apps: elements of the UI have to be easily accessible, correctly and visibly labeled, and responsive immediately. If the interface fails in any of the these three aspects, then the app is ruined. So let's go look at some key interactions in Pokémon Go, and dissect them.
 
 ### Screen 1: The Main Screen
 
