@@ -23,9 +23,12 @@ menu:
     url: /experiments/
     weight: 3
   - name: About
-    pre: smile
+    pre: about
     url: /about/
     weight: 4
+  - name: Podcast
+    pre: podcast
+    url: /podcast/
 
 params:
   since: 1995
