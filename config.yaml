@@ -14,21 +14,26 @@ permalinks:
 # The value of pre is the icon name
 menu:
   main:
-  - name: Blog
-    pre: edit
-    url: /posts/
-    weight: 2
-  - name: Experiments
-    pre: experiments
-    url: /experiments/
-    weight: 3
-  - name: About
-    pre: about
-    url: /about/
-    weight: 4
-  - name: Podcast
-    pre: podcast
-    url: /podcast/
+    - name: Blog
+      pre: edit
+      url: /posts/
+      weight: 2
+    - name: Experiments
+      pre: experiments
+      url: /experiments/
+      weight: 3
+    - name: About
+      pre: about
+      url: /about/
+      weight: 4
+    - name: Podcast
+      pre: podcast
+      url: /podcast/
+      weight: 5
+    - name: Recommends
+      pre: recommends
+      url: /recommends/
+      weight: 6
 
 params:
   since: 1995
@@ -43,12 +48,11 @@ params:
     - name: GitHub
       icon: fab fa-github fa-2x
       weight: 1
-      url: 'https://github.com/miloszkowal'
+      url: "https://github.com/miloszkowal"
     - name: LinkedIn
       icon: fab fa-linkedin-in fa-2x
       weight: 1
-      url: 'https://www.linkedin.com/in/miloszkowal/'
-
+      url: "https://www.linkedin.com/in/miloszkowal/"
 
 markup:
   defaultMarkdownHandler: goldmark
