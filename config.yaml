@@ -17,23 +17,19 @@ menu:
     - name: Blog
       pre: edit
       url: /posts/
-      weight: 2
+      weight: 1
     - name: Experiments
       pre: experiments
       url: /experiments/
-      weight: 3
+      weight: 2
     - name: About
       pre: about
       url: /about/
-      weight: 4
+      weight: 3
     - name: Podcast
       pre: podcast
       url: /podcast/
-      weight: 5
-    - name: Recommends
-      pre: recommends
-      url: /recommends/
-      weight: 6
+      weight: 4
 
 params:
   since: 1995
@@ -51,7 +47,7 @@ params:
       url: "https://github.com/miloszkowal"
     - name: LinkedIn
       icon: fab fa-linkedin-in fa-2x
-      weight: 1
+      weight: 2
       url: "https://www.linkedin.com/in/miloszkowal/"
 
 markup:

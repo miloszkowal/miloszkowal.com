@@ -1,4 +1,6 @@
-# Milosz Kowal's Recommendations
+---
+title: Recommendations
+---
 
 ## Books
 
@@ -15,3 +17,7 @@
 - The Practice of Cloud System Administration
 - The DevOps Handbook
 - Leading the Transformation
+
+## Blogroll
+
+- To be populated
