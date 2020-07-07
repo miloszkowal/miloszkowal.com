@@ -1,3 +1,7 @@
+---
+title: Codex Vitae
+---
+
 # Codex Vitae
 
 ### In General
