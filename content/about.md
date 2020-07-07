@@ -8,6 +8,8 @@ I graduated _cum laude_ from Trinity College in Hartford, CT with a degree in ma
 
 I also make candles and other nice-smelling goods as the proprietor of Forest Hills Fragrance Company. I strongly believe in the cottage industry as a model for community-building, and making my own candles instead of sourcing them from "Big Candle" (Bath and Body Works, Yankee Candle, etc.) is a way to accomplish that.
 
+I'm currently engaged to the wonderful Jillian Smith of [The Minimalist en Vogue](https://minimalistenvogue.fashion.blog/).
+
 ## Useful Links
 
 <!-- - Resume -->
