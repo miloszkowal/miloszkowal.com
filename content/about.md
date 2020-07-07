@@ -14,3 +14,4 @@ I also make candles and other nice-smelling goods as the proprietor of Forest Hi
 
 - [Life List](/life-list)
 - [Recommendations](/recommends)
+- [Codex Vitae](/codex-vitae)
