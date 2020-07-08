@@ -138,14 +138,14 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 
 - Society is simply a collection of individuals. All policies should go down to the level of the individual as opposed to the level of the group.
 
-#### Politics
+<!-- #### Politics
 
 - Socialism doesn't work. It never has and it never will.
 - People need to be able to peacefully protest against government
 - Free speech is paramount to a civilization's success
 - Free speech is absolute - "hate speech" is free speech
   - This does not mean that the author condones or agrees with hateful remarks
-- Democracies work. They're not perfect, but it's the best we have at this point.
+- Democracies work. They're not perfect, but it's the best we have at this point. -->
 
 ---
 
@@ -153,12 +153,14 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 
 #### By 2020
 
-- Donald Trump will win the presidential election. Again.
+<!-- - Donald Trump will win the presidential election. Again. -->
+
 - Electric cars will become significantly more affordable, as battery technology drastically improves. - the Tesla Model 3 proves this
 
 #### By 2030
 
-- We will see a dramatic shift in the political zeitgeist, with a resurgence of conservative values - this is already happening in places like the UK (Brexit) and the USA (Trump), but will spread to the rest of the world.
+<!-- - We will see a dramatic shift in the political zeitgeist, with a resurgence of conservative values - this is already happening in places like the UK (Brexit) and the USA (Trump), but will spread to the rest of the world. -->
+
 - We will see many genetic diseases have a commercially available cure (not cheap), thanks to CRISPR
 - The Earth will reach carrying capacity of humanity at 9 billion individuals - this will have consquences that we are not even remotely aware of yet.
 
