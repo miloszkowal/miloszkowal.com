@@ -22,9 +22,11 @@ title: Recommendations
 
 Here are some blogs that I enjoy. This list is not exhaustive.
 
+I strongly recommend using RSS for subscribing to any blogs. If a blog doesn't have RSS, it's probably not worth your time.
+
 - Finance Blogs
-  - Early Retirement Extreme
-  - Mr. Money Mustache
+  - [Early Retirement Extreme](http://earlyretirementextreme.com/)
+  - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
 - Lifestyle
-  - Raptitude
-  - The Art of Manliness
+  - [Raptitude](https://www.raptitude.com/)
+  - [The Art of Manliness](https://www.artofmanliness.com/)
