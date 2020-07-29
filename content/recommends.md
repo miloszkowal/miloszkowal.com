@@ -20,4 +20,11 @@ title: Recommendations
 
 ## Blogroll
 
-- To be populated
+Here are some blogs that I enjoy. This list is not exhaustive.
+
+- Finance Blogs
+  - Early Retirement Extreme
+  - Mr. Money Mustache
+- Lifestyle
+  - Raptitude
+  - The Art of Manliness
