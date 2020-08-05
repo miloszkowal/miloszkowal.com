@@ -2,6 +2,6 @@
 title: Podcast
 ---
 
-I'm the host of the Milosz Kowal show. You can listen to the latest episode below, or find the archive in your favorite podcast player.
+I'm the host of the Milosz Kowal Show. It is a podcast in which I talk about basically whatever I want.
 
-<iframe src="https://anchor.fm/milosz-kowal-show/embed" height="200px" width="100%" frameborder="0" scrolling="no"></iframe>
+[This is the link to the RSS of the podcast](https://anchor.fm/s/140bbb70/podcast/rss), to copy to your favorite podcast player (I recommend [Overcast](https://overcast.fm/)).
