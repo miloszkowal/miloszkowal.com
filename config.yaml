@@ -40,6 +40,7 @@ params:
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
   hideFooter: true
+  colorscheme: dark
   social:
     - name: GitHub
       icon: fab fa-github fa-2x
