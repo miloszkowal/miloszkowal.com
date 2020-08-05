@@ -29,7 +29,8 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Squat 2.5x body weight
 - Bench press 2x body weight
 - Deadlift 3x body weight
-- Chop down a tree with an ax.
+- Chop down a tree with an ax
+- Achieve resting heart rate of 45 bpm
 
 ## Languages (Conversational Fluency)
 
