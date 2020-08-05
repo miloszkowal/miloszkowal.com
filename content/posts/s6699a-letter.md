@@ -2,6 +2,7 @@
 title: "An Open Letter to Senator Robert Jackson (D-NY) Regarding Bill S6699A"
 date: 2020-01-25T08:43:10-05:00
 draft: false
+tags: ["politics"]
 ---
 
 Dear Senator Jackson,

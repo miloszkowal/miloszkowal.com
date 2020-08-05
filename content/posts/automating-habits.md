@@ -2,6 +2,7 @@
 title: "Automating Habit Tracking using Habitify and Siri Shortcuts"
 date: 2019-09-09T13:52:47-04:00
 draft: false
+tags: ["technology"]
 ---
 
 # Introduction
@@ -20,9 +21,9 @@ But let's up the ante a bit. How can we automate habit tracking, and thus habit 
 
 For the purposes of this post, let's work with the following Habit List:
 
-* Meditation
-* Exercise
-* Gratitude
+- Meditation
+- Exercise
+- Gratitude
 
 You can see more good habits to establish [here](https://www.developgoodhabits.com/good-daily-habits-list/).
 
@@ -50,7 +51,7 @@ Either way, we now have a conditional that checks if we meditated. After the fir
 
 I think the benefits of exercise are obvious. One of the most important benefits of physical exercise appears to have a role in neuroplasticity and spatial learning, and memory.[^3] Either way, you will likely become more productive through exercising, even if it's just 25 minutes a day (which puts you above the Department of Health recommendations).[^4]
 
-The process is very similar for exercise, since it is a health-based habit. Assuming that we want to track cardiovascular exercise, we can take a variety of options. For this, we'll be going by "Walking + Running Distance," but you can just as easily search by things like Cycling Distance, Swimming Distance, and so on. The strange omission from this is the lack of "Exercise Minutes," which seems to make the most sense as a tracker (we'd want to know how long we've exercised). But let's just say for now, we care about how long we walked. The important note here is to *not* limit the search for only one health sample. Health samples for walking are created continuously, so the phone actually creates a multitude of health points under these categories (particularly if you have an Apple Watch). The more important point here is to use the group by functionality to only retrieve the day's samples ("Group by Day").
+The process is very similar for exercise, since it is a health-based habit. Assuming that we want to track cardiovascular exercise, we can take a variety of options. For this, we'll be going by "Walking + Running Distance," but you can just as easily search by things like Cycling Distance, Swimming Distance, and so on. The strange omission from this is the lack of "Exercise Minutes," which seems to make the most sense as a tracker (we'd want to know how long we've exercised). But let's just say for now, we care about how long we walked. The important note here is to _not_ limit the search for only one health sample. Health samples for walking are created continuously, so the phone actually creates a multitude of health points under these categories (particularly if you have an Apple Watch). The more important point here is to use the group by functionality to only retrieve the day's samples ("Group by Day").
 
 Once we have this, we can do the same as above, and check whether we walked or ran (or whatever you decide to search for) more than our specified amount of miles. Let's say our goal is at least three miles a day. This is another simple if statement and more Complete or Fails using the Habitify shortcut.
 
@@ -87,4 +88,3 @@ _Note: I have not been paid to mention any of the apps here. These are just apps
 [^5]: https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier
 [^6]: https://psycnet.apa.org/journals/amp/60/5/410/
 [^7]: https://web.archive.org/web/20130112052218/http://dornsife.usc.edu/wendywood/research/documents/Neal.Wood.Quinn.2006.pdf
-
