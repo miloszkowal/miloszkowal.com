@@ -2,7 +2,7 @@ baseURL: "/"
 languageCode: en-us
 title: Milosz Kowal | Artisan
 theme: coder
-googleAnalytics: UA-35775134-5
+# googleAnalytics: UA-35775134-5
 
 taxonomies:
   tag: tags
@@ -50,6 +50,10 @@ params:
       icon: fab fa-linkedin-in fa-2x
       weight: 2
       url: "https://www.linkedin.com/in/miloszkowal/"
+    - name: Youtube
+      icon: fab fa-youtube fa-2x
+      weight: 3
+      url: https://www.youtube.com/channel/UC8HdN13J-Tnp_WbzvJ4NMcg
 
 markup:
   defaultMarkdownHandler: goldmark
