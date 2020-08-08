@@ -42,17 +42,23 @@ params:
   hideFooter: true
   colorscheme: dark
   social:
+    - name: RSS
+      icon: fas fa-rss fa-2x
+      weight: 1
+      url: "https://miloszkowal.com/index.xml"
+      rel: "alternate"
+      type: "application/rss+xml"
     - name: GitHub
       icon: fab fa-github fa-2x
-      weight: 1
+      weight: 2
       url: "https://github.com/miloszkowal"
     - name: LinkedIn
       icon: fab fa-linkedin-in fa-2x
-      weight: 2
+      weight: 3
       url: "https://www.linkedin.com/in/miloszkowal/"
     - name: Youtube
       icon: fab fa-youtube fa-2x
-      weight: 3
+      weight: 4
       url: https://www.youtube.com/channel/UC8HdN13J-Tnp_WbzvJ4NMcg
 
 markup:
