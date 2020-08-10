@@ -2,7 +2,7 @@
 title: "Leaving macOS"
 date: 2020-08-09T11:44:17-04:00
 author: Milosz Kowal
-draft: true
+draft: false
 tags: []
 ---
 
