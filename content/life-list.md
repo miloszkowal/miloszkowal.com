@@ -64,3 +64,4 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Get a pilot's license
 - Become a US Citizen
 - Write a will
+- Cook a margherita pizza entirely from scratch
