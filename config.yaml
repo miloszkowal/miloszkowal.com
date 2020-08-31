@@ -41,8 +41,8 @@ params:
   dateFormat: Jan 2, 2006
   hideFooter: true
   colorscheme: dark
-  favicon_16: favicon.ico
-  favicon_32: favicon.ico
+  favicon_16: icon/favicon.ico
+  favicon_32: icon/favicon.ico
   social:
     - name: RSS
       icon: fas fa-rss fa-2x
