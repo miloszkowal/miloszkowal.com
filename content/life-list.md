@@ -8,7 +8,7 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 
 - Vacation for a month on another continent
 - Spend a month hiking
-- Spend a night in every US national park
+- Spend a [night in every US national park](/national-parks)
 - Ride a cross-country train
 - Spend a month in monastic silence (in an actual monastery)
 
@@ -58,7 +58,8 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Brew a six-pack of beer
 - Make a barrel of wine
 - Build a log cabin
-- Read all of Dostoyevsky's works
+- Read all of [Dostoyevsky's works](/dostoyevsky)
+- Read all the [Great Books of the Western World](/great-books)
 - Become familiar with the works of Artistotle, Plato, Socrates, and other greats of ancient thought
 - Get a HAM radio license
 - Get a pilot's license

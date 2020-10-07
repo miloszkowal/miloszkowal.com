@@ -17,3 +17,4 @@ I'm currently engaged to the wonderful Jillian Smith of [The Minimalist en Vogue
 - [Life List](/life-list)
 - [Recommendations](/recommends)
 - [Codex Vitae](/codex-vitae)
+- [Personal Library](/library)
