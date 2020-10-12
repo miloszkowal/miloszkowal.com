@@ -8,14 +8,14 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 
 - Vacation for a month on another continent
 - Spend a month hiking
-- Spend a [night in every US national park](/national-parks)
+- Visit [every US national park](/national-parks)
 - Ride a cross-country train
 - Spend a month in monastic silence (in an actual monastery)
 
 ## Finance
 
 - ~~Earn a six-figure salary / income~~ -- _Completed on April 22, 2020_
-- Start a (candle-selling) business -- _In Progress_
+- Start a cottage industry
 - Live on less than 15K USD / year
 - Live on less than 10K USD / year
 - Live on less than 5K USD / year
@@ -38,8 +38,8 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - ~~English~~ -- _Completed_
 - French
 - Italian
-- Japanese
-- Swahili
+- Japanese or Chinese
+- Latin
 
 ## Other accomplishments
 
