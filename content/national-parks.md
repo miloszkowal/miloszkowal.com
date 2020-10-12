@@ -13,7 +13,7 @@ Title: National Parks Visitation Tracker
 - Canyonlands, Utah
 - Capitol Reef, Utah
 - Carlsbad Caverns, New Mexico
-- Channel Islands, California
+- ~~Channel Islands, California~~
 - Congaree, South Carolina
 - Crater Lake, Oregon
 - Cuyahoga Valley, Ohio
@@ -26,7 +26,7 @@ Title: National Parks Visitation Tracker
 - Glacier, Montana
 - Glacier Bay, Alaska
 - Grand Canyon, Arizona
-- Grand Teton, Wyoming
+- ~~Grand Teton, Wyoming~~
 - Great Basin, Nevada
 - Great Sand Dunes, Colorado
 - Great Smoky Mountains, North Carolina / Tennessee
@@ -43,12 +43,12 @@ Title: National Parks Visitation Tracker
 - Kobuk Valley, Alaska
 - Lake Clark, Alaska
 - Lassen Volcanic, California
-- Mammoth Cave, Kentucky
+- ~~Mammoth Cave, Kentucky~~
 - Mesa Verde, Colorado
 - Mount Rainier, Washington
 - North Cascades, Washington
 - Olympic, Washington
-- Petrified Forest, Arizona
+- ~~Petrified Forest, Arizona~~
 - Pinnacles, California
 - Redwood, California
 - Rocky Mountain, Colorado
@@ -61,6 +61,6 @@ Title: National Parks Visitation Tracker
 - White Sands, New Mexico
 - Wind Cave, South Dakota
 - Wrangell-St. Elias, Alaska
-- Yellowstone, Wyoming / Montana / Idaho
-- Yosemite, California
+- ~~Yellowstone, Wyoming / Montana / Idaho~~
+- ~~Yosemite, California~~
 - Zion, Utah
