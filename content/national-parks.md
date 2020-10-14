@@ -2,6 +2,8 @@
 Title: National Parks Visitation Tracker
 ---
 
+National Parks Visited: 9/61
+
 - ~~Acadia, Maine~~
 - American Samoa
 - Arches, Utah

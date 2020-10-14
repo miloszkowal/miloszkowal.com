@@ -2,6 +2,8 @@
 Title: Dostoyevsky Reading Tracker
 ---
 
+Titles Read: 0/22
+
 ### Novels and Novellas
 
 - Poor Folk

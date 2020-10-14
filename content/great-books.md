@@ -2,12 +2,14 @@
 Title: Great Books of the Western World Reading Tracker
 ---
 
+Titles Read: 0/517
+
 - Volume I
   - The Great Conversation
 - Volume II
-  - Synopticon I
+  - Syntopicon I
 - Volume III
-  - Synopticon II
+  - Syntopicon II
 - Volume IV
   - Homer
     - The Iliad
