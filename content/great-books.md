@@ -2,122 +2,205 @@
 Title: Great Books of the Western World Reading Tracker
 ---
 
-## Volume I
-- The Great Conversation
+- Volume I
+    - The Great Conversation
+- Volume II
+    - Synopticon I
+- Volume III
+    - Synopticon II
+- Volume IV
+    - Homer
+        - The Iliad
+        - The Odyssey
+- Volume V
+    - Aeschylus
+        - The Suppliant Maidens
+        - The Persians
+        - Seven Against Thebes
+        - Prometheus Bound
+        - The Oresteia
+            - Agamemnon
+            - Choephoroe
+            - The Eumenides
+    - Sophocles
+        - The Oedipus Cycle
+            - Oedipus the King
+            - Oedipus at Colonus
+            - Antigone
+        - Ajax
+        - Electra
+        - The Trachiniae
+        - Philoctetes
+    - Euripides
+        - Rhesus
+        - Medea
+        - Hippolytus
+        - Alcestis
+        - Heracleidae
+        - The Suppliants
+        - The Trojan Women
+        - Ion
+        - Helen
+        - Andromache
+        - Electra
+        - Bacchantes
+        - Hecuba
+        - Heracles Mad
+        - The Phoenician Women
+        - Orestes
+        - Iphigenia in Tauris
+        - Iphigenia in Aulis
+        - Cyclops
+    - Aristophenes
+        - The Acharnians
+        - The Knights
+        - The Clouds
+        - The Wasps
+        - Peace
+        - The Birds
+        - The Frogs
+        - Lysistrata
+        - Thesmophoriazusae
+        - Ecclesiazousae
+        - Plutus
 
-## Volume II
-- Synopticon I
+- Volume VI
+    - Herodotus
+        - The History
+    - Thucydides
+        - History of the Peloponnesian War  
 
-## Volume III
-- Synopticon II
+- Volume VII
+    - Plato
+        - The Dialogues
+            - Charmides
+            - Lysis
+            - Laches
+            - Protagoras
+            - Euthydemus
+            - Cratylus
+            - Phaedrus
+            - Ion
+            - Symposium
+            - Meno
+            - Euthyphro
+            - Apology
+            - Crito
+            - Phaedo
+            - Gorgias
+            - The Republic
+            - Timaeus
+            - Critias
+            - Parmenides
+            - Theaetetus
+            - Sophist
+            - Statesman
+            - Philebus
+            - Laws
+        - The Seventh Letter
 
-## Volume IV
-### Homer
-- The Iliad
-- The Odyssey
+- Volume VIII
+    - Aristotle
+        - Categories
+        - On Interpretation
+        - Prior Analytics
+        - Posterior Analytics
+        - Topics
+        - Sophistical Refutations
+        - Physics
+        - On the Heavens
+        - On Generation and Corruption
+        - Meteorology
+        - Metaphysics
+        - On the Soul
+        - "Minor biological works"
 
-## Volume V
-### Aeschylus
-- The Suppliant Maidens
-- The Persians
-- Seven Against Thebes
-- Prometheus Bound
-- The Oresteia
-    - Agamemnon
-    - Choephoroe
-    - The Eumenides
+- Volume IX
+    - Aristotle
+        - History of Animals
+        - Parts of Animals
+        - On the Motion of Animals
+        - On the Gait of Animals
+        - On the Generation of Animals
+        - Nicomachean Ethics
+        - Politics
+        - The Athenian Constitution
+        - Rhetoric
+        - Poetics
 
-### Sophocles
-- The Oedipus Cycle
-    - Oedipus the King
-    - Oedipus at Colonus
-    - Antigone
-- Ajax
-- Electra
-- The Trachiniae
-- Philoctetes
+- Volume X
+    - Hippocrates
+        - Works
+    - Galen
+        - On the Natural Faculties
 
-### Euripides
-- Rhesus
-- Medea
-- Hippolytus
-- Alcestis
-- Heracleidae
-- The Suppliants
-- The Trojan Women
-- Ion
-- Helen
-- Andromache
-- Electra
-- Bacchantes
-- Hecuba
-- Heracles Mad
-- The Phoenician Women
-- Orestes
-- Iphigenia in Tauris
-- Iphigenia in Aulis
-- Cyclops
+- Volume XI
+    - Euclid
+        - Elements (Books I-XIII)
+    - Archimedes
+        - On the Sphere and the Cylinder
+        - Measurement of a Circle
+        - On Conoids and Spheroids
+        - On Spirals
+        - On the Equilibrium of Planes
+        - The Sand Reckoner
+        - The Quadrature of the Parabola
+        - On Floating Bodies
+        - Book of Lemmas
+        - The Method Treating of Mechanical Problems
+    - Apollonus of Perga
+        - On Conic Sections
+    - Nicomachus of Gerasa
+        - Introduction to Arithmetic
 
-### Aristophenes
-- The Acharnians
-- The Knights
-- The Clouds
-- The Wasps
-- Peace
-- The Birds
-- The Frogs
-- Lysistrata
-- Thesmophoriazusae
-- Ecclesiazousae
-- Plutus
+- Volume XII
+    - Lucretius
+        - On the Natura of Things
+    - Epictetus
+        - The Discourses
+    - Marcus Aurelius
+        - The Meditations
 
-## Volume VI
-### Herodotus
-- The History
-### Thucydides
-- History of the Peloponnesian War
+- Volume XIII
+    - Virgil
+        - Eclogues
+        - Georgics
+        - Aeneid
 
-## Volume VII
-### Plato
-- The Dialogues
-    - Charmides
-    - Lysis
-    - Laches
-    - Protagoras
-    - Euthydemus
-    - Cratylus
-    - Phaedrus
-    - Ion
-    - Symposium
-    - Meno
-    - Euthyphro
-    - Apology
-    - Crito
-    - Phaedo
-    - Gorgias
-    - The Republic
-    - Timaeus
-    - Critias
-    - Parmenides
-    - Theaetetus
-    - Sophist
-    - Statesman
-    - Philebus
-    - Laws
-- The Seventh Letter
+- Volume XIV
+    - Plutarch
+        - The Lives of the Noble Grecians and Romans
 
-## Volume VIII
-### Aristotle
-- Categories
-- On Interpretation
-- Prior Analytics
-- Posterior Analytics
-- Topics
-- Sophistical Refutations
-- Physics
-- On the Heavens
-- On Generation and Corruption
-- Meteorology
-- Metaphysics
-- On the Soul
-- "Minor biological works"
+- Volume XV
+    - P. Cornelius Tacitus
+        - The Annals
+        - The Histories
+
+- Volume XVI
+    - Ptolemy
+        - Almagest
+    - Nicolaus Copernicus
+        - On the Revolutions of the Heavenly Spheres
+    - Johannes Kepler
+        - Epitome of Copernican Astronomy (Books IV-V)
+        - The Harmonies of the World (Book V)
+
+- Volume XVII
+    - Plotinus
+        - The Six Enneads
+
+- Volume XVIII
+    - Augustine of Hippo
+        - The Confessions
+        - The City of God
+        - On Christian Doctrine
+
+- Volume XIX
+    - Thomas Aquinas
+        - Summa Theologica (First Part, selections from second part)
+    
+- Volume XX
+    - Thomas Aquinas
+        - Summa Theologica (Selections form second and third part)
+    - John Calvin
+        - Institutes of Christian Religion

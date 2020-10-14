@@ -25,7 +25,7 @@ Title: National Parks Visitation Tracker
 - Gateway Arch, Missouri
 - Glacier, Montana
 - Glacier Bay, Alaska
-- Grand Canyon, Arizona
+- ~~Grand Canyon, Arizona~~
 - ~~Grand Teton, Wyoming~~
 - Great Basin, Nevada
 - Great Sand Dunes, Colorado
