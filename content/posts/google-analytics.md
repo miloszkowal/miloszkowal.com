@@ -2,7 +2,7 @@
 title: "Removing Google Analytics from the Website"
 date: 2020-08-06T15:19:01-04:00
 author: Milosz Kowal
-draft: false
+draft: true
 tags: ["technology"]
 ---
 

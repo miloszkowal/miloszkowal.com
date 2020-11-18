@@ -2,7 +2,7 @@ baseURL: "/"
 languageCode: en-us
 title: Milosz Kowal | Artisan
 theme: coder
-# googleAnalytics: UA-35775134-5
+googleAnalytics: UA-35775134-5
 
 taxonomies:
   tag: tags
