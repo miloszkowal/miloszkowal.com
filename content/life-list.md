@@ -47,7 +47,7 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Have a child
 - ~~Publish a website~~ -- _Completed on December 27, 2012_
 - Publish a book
-- Publish an app on the App Store
+- Publish an app
 - Perform an instrument live
 - Become carbon-neutral
 - Go zero-waste for one year
