@@ -4,10 +4,10 @@ Title: National Parks Visitation Tracker
 
 National Parks Visited: 9/61
 
-- ~~Acadia, Maine~~
+- ~~Acadia, Maine~~ - _July 2017_
 - American Samoa
 - Arches, Utah
-- Badlands, South Dakota
+- ~~Badlands, South Dakota~~
 - Big Bend, Texas
 - Biscayne, Florida
 - Black Canyon of the Gunnison, Colorado
@@ -19,7 +19,7 @@ National Parks Visited: 9/61
 - Congaree, South Carolina
 - Crater Lake, Oregon
 - Cuyahoga Valley, Ohio
-- ~~Death Valley, California / Nevada~~
+- ~~Death Valley, California / Nevada~~ - _January 2018_
 - Denali, Alaska
 - Dry Tortugas, Florida
 - Everglades, Florida
