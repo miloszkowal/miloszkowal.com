@@ -2,7 +2,7 @@
 Title: National Parks Visitation Tracker
 ---
 
-National Parks Visited: 9/61
+National Parks Visited: 17/61
 
 - ~~Acadia, Maine~~ - _July 2017_
 - American Samoa
@@ -10,7 +10,7 @@ National Parks Visited: 9/61
 - ~~Badlands, South Dakota~~
 - Big Bend, Texas
 - Biscayne, Florida
-- Black Canyon of the Gunnison, Colorado
+- ~~Black Canyon of the Gunnison, Colorado~~
 - Bryce Canyon, Utah
 - Canyonlands, Utah
 - Capitol Reef, Utah
@@ -36,9 +36,9 @@ National Parks Visited: 9/61
 - Haleakalā, Hawaii
 - Hawai'i Volcanoes, Hawaii
 - Hot Springs, Arkansas
-- Indiana Dunes, Indiana
+- ~~Indiana Dunes, Indiana~~
 - Isle Royale, Michigan
-- Joshua Tree, California
+- ~~Joshua Tree, California~~
 - Katmai, Alaska
 - Kenai Fjords, Alaska
 - Kings Canyon, California
@@ -46,7 +46,7 @@ National Parks Visited: 9/61
 - Lake Clark, Alaska
 - Lassen Volcanic, California
 - ~~Mammoth Cave, Kentucky~~
-- Mesa Verde, Colorado
+- ~~Mesa Verde, Colorado~~
 - Mount Rainier, Washington
 - North Cascades, Washington
 - Olympic, Washington
@@ -54,14 +54,14 @@ National Parks Visited: 9/61
 - Pinnacles, California
 - Redwood, California
 - Rocky Mountain, Colorado
-- Saguaro, Arizona
-- Sequoia, California
+- ~~Saguaro, Arizona~~
+- ~~Sequoia, California~~
 - Shenandoah, Virginia
 - Theodore Roosevelt, North Dakota
 - Virgin Islands
 - Voyageurs, Minnesota
 - White Sands, New Mexico
-- Wind Cave, South Dakota
+- ~~Wind Cave, South Dakota~~
 - Wrangell-St. Elias, Alaska
 - ~~Yellowstone, Wyoming / Montana / Idaho~~
 - ~~Yosemite, California~~
