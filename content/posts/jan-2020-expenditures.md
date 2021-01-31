@@ -2,8 +2,8 @@
 title: "Jan 2020 Expenditures"
 date: 2021-01-31T16:09:26-05:00
 author: Milosz Kowal
-draft: true
-tags: []
+draft: false
+tags: ["money"]
 ---
 
 # Introduction
