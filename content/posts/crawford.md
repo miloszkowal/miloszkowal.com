@@ -1,5 +1,5 @@
 ---
-title: "The World Beyond Your Head by Michael Crawford"
+title: "The World Beyond Your Head by Matthew B. Crawford"
 date: 2021-02-06T17:20:58-05:00
 author: Milosz Kowal
 draft: false
