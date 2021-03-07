@@ -83,7 +83,7 @@ Titles Read: 0/517
       - Euthydemus
       - Cratylus
       - Phaedrus
-      - Ion
+      - ~~Ion~~ - *Read on 2021-03-06*
       - Symposium
       - Meno
       - Euthyphro

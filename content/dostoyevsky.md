@@ -13,7 +13,7 @@ Titles Read: 0/22
 - The Village of Stepanchikovo (The Friend of the Family)
 - Humiliated and Insulted
 - The House of the Dead
-- Notes from the Underground
+- ~~Notes from the Underground~~ - *Read on 2021-03-05*
 - Crime and Punishment
 - The Gambler
 - The Idiot
