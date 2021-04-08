@@ -22,10 +22,11 @@ Started to go by category instead of by vendor. I feel that makes things easier 
 | --------- | ------ | ------------------------------------------------------------------------------------------- |
 | Rent      | 832.50 |                                                                                             |
 | Hobbies   | 117.48 | Includes $50 in Paperback Swap fees, as well as buying two domain names, and some VPS space |
+| Charity   | 40.00  | Charitable contributions to my church                                                       |
 | Groceries | 39.27  | Includes fancy $5 yogurt                                                                    |
-| Utilities | 17.53  |
+| Utilities | 17.53  |                                                                                             |
 
-Total: **$1,066.78** (-$114.31 from last month)
+Total: **$1,106.78** (-$74.31 from last month)
 Total cashback earned: **$3.88**
 
 Interestingly enough, I feel like I spent a lot more this month, especially on hobbies. But it really comes down actually tallying things up to see how they really are. This is why I encourage everyone to do this exercise. You never know what you end up with.
