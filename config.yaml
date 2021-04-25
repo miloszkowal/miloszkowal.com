@@ -1,91 +1,42 @@
-baseURL: "/"
+baseUrl: /
 languageCode: en-us
-title: Milosz Kowal | Artisan
-theme: coder
-googleAnalytics: UA-35775134-5
-
-taxonomies:
-  tag: tags
-
-permalinks:
-  post: /:filename/
-
-# See https://feathericons.com/
-# The value of pre is the icon name
-menu:
-  main:
-    - name: Blog
-      pre: edit
-      url: /posts/
-      weight: 1
-    - name: About
-      pre: about
-      url: /about/
-      weight: 2
-    - name: Podcast
-      pre: podcast
-      url: /podcast/
-      weight: 3
+theme: terminal
+paginate: 5
 
 params:
-  since: 1995
-  author: "Milosz Kowal"
-  info: "A creator. Mostly of software, but also of candles."
-  includeBootstrapJs: false
-  showActiveNav: true
-  containerMaxWidth: 700px
-  dateFormat: Jan 2, 2006
-  hideFooter: true
-  colorscheme: dark
-  favicon_16: icon/favicon.ico
-  favicon_32: icon/favicon.ico
-  social:
-    - name: RSS
-      icon: fas fa-rss fa-2x
-      weight: 1
-      url: "https://miloszkowal.com/index.xml"
-      rel: "alternate"
-      type: "application/rss+xml"
-    - name: GitHub
-      icon: fab fa-github fa-2x
-      weight: 2
-      url: "https://github.com/miloszkowal"
-    - name: LinkedIn
-      icon: fab fa-linkedin-in fa-2x
-      weight: 3
-      url: "https://www.linkedin.com/in/miloszkowal/"
-    - name: Youtube
-      icon: fab fa-youtube fa-2x
-      weight: 4
-      url: https://www.youtube.com/channel/UC8HdN13J-Tnp_WbzvJ4NMcg
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName: posts
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor: green
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems: 3
+  # show selector to switch language
+  showLanguageSelector: false
+  # set theme to full screen width
+  fullWidthTheme: false
+  # center theme with default width
+  centerTheme: false
 
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    extensions:
-      definitionList: true
-      footnote: true
-      linkify: true
-      strikethrough: true
-      table: true
-      taskList: true
-      typographer: true
-    parser:
-      attribute: true
-      autoHeadingID: true
-    renderer:
-      hardWraps: false
-      unsafe: true
-      xHTML: false
-  highlight:
-    codeFences: true
-    hl_Lines: ""
-    lineNoStart: 1
-    lineNos: false
-    lineNumbersInTable: true
-    noClasses: true
-    style: monokai
-    tabWidth: 4
-  tableOfContents:
-    endLevel: 6
-    startLevel: 2
+languages:
+  en:
+    languageName: English
+    title: Your site title
+    subtitle: Your site subtitle
+    keywords: ""
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+
+    params:
+      logo:
+        logoText: Terminal
+        logoHomeLink: /
+
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+        - identifier: showcase
+          name: Showcase
+          url: /showcase
