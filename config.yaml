@@ -2,6 +2,7 @@ baseUrl: /
 languageCode: en-us
 theme: terminal
 paginate: 5
+googleAnalytics: UA-35775134-5
 
 params:
   # dir name of your blog content (default is `content/posts`)
@@ -16,11 +17,13 @@ params:
   fullWidthTheme: false
   # center theme with default width
   centerTheme: false
+  favicon: icon/favicon.ico
+  hideFooter: true
 
 languages:
   en:
     languageName: English
-    title: Your site title
+    title: Milosz Kowal | Artisan
     subtitle: Your site subtitle
     keywords: ""
     menuMore: Show more
@@ -29,14 +32,14 @@ languages:
 
     params:
       logo:
-        logoText: Terminal
+        logoText: Milosz Kowal
         logoHomeLink: /
 
     menu:
       main:
+        - identifier: blog
+          name: Blog
+          url: /posts
         - identifier: about
           name: About
           url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
