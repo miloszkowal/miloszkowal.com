@@ -1,5 +1,5 @@
 ---
-title: "Jan 2020 Expenditures"
+title: "Jan 2021 Expenditures"
 date: 2021-01-31T16:09:26-05:00
 author: Milosz Kowal
 draft: false
@@ -14,7 +14,7 @@ I want to start tracking my expenditures on a more consistent basis, as knowing 
 
 I use a simple Google Sheets template where I write down each expenditure. It also tracks my cashback based on which card I use, since different cards offer different cashback rewards. 
 
-# January 2020
+# January 2021
 
 The biggest expenditure this month was PaperBackSwap, a service that my fiancée and I use to swap books with other members around the country. We use them to buy our shipping, so we have to load up our "PBS Money." Some of that was reimbursed with cash from my mother-in-law, but any reimbursements will not be kept track of.
 

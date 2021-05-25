@@ -1,5 +1,5 @@
 ---
-title: "Feb 2020 Expenditures"
+title: "Feb 2021 Expenditures"
 date: 2021-02-28
 author: Milosz Kowal
 draft: false
@@ -14,7 +14,7 @@ I want to start tracking my expenditures on a more consistent basis, as knowing 
 
 I use a simple Google Sheets template where I write down each expenditure. It also tracks my cashback based on which card I use, since different cards offer different cashback rewards.
 
-# February 2020
+# February 2021
 
 The biggest expenditure this month was buying records. I like records, even though I don't have a record player yet. This is a bigger purchase that I'm saving up for now.
 

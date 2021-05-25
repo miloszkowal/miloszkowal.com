@@ -1,5 +1,5 @@
 ---
-title: "March 2020 Expenditures"
+title: "March 2021 Expenditures"
 date: 2021-04-07
 author: Milosz Kowal
 draft: false
@@ -14,7 +14,7 @@ I want to start tracking my expenditures on a more consistent basis, as knowing 
 
 I use a simple Google Sheets template where I write down each expenditure. It also tracks my cashback based on which card I use, since different cards offer different cashback rewards.
 
-# March 2020
+# March 2021
 
 Started to go by category instead of by vendor. I feel that makes things easier on the eyes in terms of the table. Still getting used to what will work and what won't.
 
