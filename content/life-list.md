@@ -61,8 +61,8 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Read all of [Dostoyevsky's works](/dostoyevsky)
 - Read all the [Great Books of the Western World](/great-books)
 - Become familiar with the works of Artistotle, Plato, Socrates, and other greats of ancient thought
-- Get a HAM radio license
 - Get a pilot's license
 - Become a US Citizen
 - Write a will
 - Cook a margherita pizza entirely from scratch
+- ~~Ring a church bell~~ -- _Completed on 2021-05-16_
