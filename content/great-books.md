@@ -83,7 +83,7 @@ Titles Read: 0/517
       - Euthydemus
       - Cratylus
       - Phaedrus
-      - ~~Ion~~ - *Read on 2021-03-06*
+      - ~~Ion~~ - _Read on 2021-03-06_
       - Symposium
       - Meno
       - Euthyphro
@@ -254,6 +254,7 @@ Titles Read: 0/517
     - As You Like It
 
 - Volume XXVII
+
   - William Shakespeare
     - Twelfth Night; or, What You Will
     - The Tragedy of Hamlet, Prince of Denmark
@@ -273,3 +274,19 @@ Titles Read: 0/517
     - The Tempest
     - The Famous History of the Life of King Henry the Eighth
     - Sonnets
+
+- Volume XXVIII
+
+  - William Gilbert
+    - On the Loadstone and Magnetic Bodies
+  - Galileo Galilei
+    - Dialogues Concerning the Two New Sciences
+  - William Harvey
+    - On the Motion of the Heart and Blood in Animals
+    - On the Circulation of Blood
+    - On the Generation of Animals
+
+- Volume XXIX
+
+  - Miguel de Cervantes
+    - The History of Don Quixote de la Mancha
