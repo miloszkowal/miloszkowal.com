@@ -2,7 +2,7 @@
 Title: Personal Library
 ---
 
-This is a list of books that I own. I use the Library of Congress classification schema.
+This is a (growing) list of books that I own. I use the Library of Congress classification schema.
 
 # H: Social Sciences
 
