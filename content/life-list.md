@@ -65,4 +65,5 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Become a US Citizen
 - Write a will
 - Cook a margherita pizza entirely from scratch
+- Become a [master gardener](https://ahsgardening.org/gardening-resources/master-gardeners/)
 - ~~Ring a church bell~~ -- _Completed on 2021-05-16_
