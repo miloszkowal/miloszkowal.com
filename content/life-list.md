@@ -43,7 +43,7 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 
 ## Other accomplishments
 
-- Get married
+- ~~Get married~~ -- _Completed_
 - Have a child
 - ~~Publish a website~~ -- _Completed on December 27, 2012_
 - Publish a book
@@ -62,7 +62,7 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 - Read all the [Great Books of the Western World](/great-books)
 - Become familiar with the works of Artistotle, Plato, Socrates, and other greats of ancient thought
 - Get a pilot's license
-- Become a US Citizen
+- ~~Become a US Citizen~~ -- _Completed_
 - Write a will
 - Cook a margherita pizza entirely from scratch
 - Become a [master gardener](https://ahsgardening.org/gardening-resources/master-gardeners/)
