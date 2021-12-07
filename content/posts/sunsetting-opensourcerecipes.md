@@ -1,6 +1,6 @@
 ---
 title: "Sunsetting Open Source Recipes"
-date: 2021-03-07T15:28:38-05:00
+date: 2021-12-07
 author: Milosz Kowal
 draft: false
 tags: ["technology", "food"]
