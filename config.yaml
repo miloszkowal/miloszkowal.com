@@ -15,7 +15,7 @@ params:
   fullWidthTheme: false
   # center theme with default width
   centerTheme: false
-  favicon: icon/favicon.ico
+  favicon: /icon/favicon.ico
   hideFooter: true
 
 languages:
