@@ -6,8 +6,6 @@ I love making things. This holds true in software (where I love creating cool to
 
 I graduated _cum laude_ from Trinity College in Hartford, CT with a degree in math and theater (nice combination, I know). I worked at Moody's Corporation as a software engineer on their NLP platforms, at HSBC as a business analyst, at Metacore Technologies as a DevOps engineer (where I discovered the absolute joy that is cloud computing), and at [Resideo Technologies](https://www.resideo.com/us/en), where I worked on their DevOps pipeline for embedded Linux systems. Currently, I'm at [BIDS Trading](https://www.bidstrading.com/), working as a Site Reliability Engineer.
 
-I'm currently engaged to the wonderful Jillian Smith of [The Minimalist en Vogue](https://minimalistenvogue.fashion.blog/).
-
 ## Useful Links
 
 <!-- - Resume -->
