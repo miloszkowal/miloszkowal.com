@@ -4,6 +4,7 @@ jobs:
   build:
     docker:
       - image: peaceiris/hugo:v0.89.4
+    resource_class: small
     steps:
       - checkout
       - run:
