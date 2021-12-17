@@ -1,14 +1,10 @@
-+++ 
-draft = false
-date = 2020-05-09T06:41:28-04:00
-title = "Apple Watch's Theater Mode as a Digital Minimalist Practice"
-description = ""
-slug = "" 
-tags = ['technology']
-categories = []
-externalLink = ""
-series = []
-+++
+---
+title: "Apple Watch's Theater Mode as a Digital Minimalist Practice"
+date: 2020-05-09
+author: Milosz Kowal
+draft: false
+tags: ["technology", "food"]
+---
 
 # Theater Mode on Apple Watch
 

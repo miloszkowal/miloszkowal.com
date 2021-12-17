@@ -2,6 +2,8 @@
 title: The Life List
 ---
 
+# Milosz's Life List
+
 Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitude](https://www.raptitude.com/2009/09/the-list/), this page serves as the repository for the things I want to accomplish in my life. It is as exhaustive as I can make it, and it is mutable.
 
 ## Travel
