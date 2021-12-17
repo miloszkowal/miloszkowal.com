@@ -48,6 +48,7 @@ jobs:
   lint_html:
     docker:
       - image: mtlynch/htmlproofer:latest
+    resource_class: small
     steps:
       - attach_workspace:
           at: ./
