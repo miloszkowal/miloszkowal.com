@@ -4,7 +4,7 @@ Title: Dostoyevsky Reading Tracker
 
 Titles Read: 0/22
 
-### Novels and Novellas
+**Novels and Novellas**
 
 - Poor Folk
 - The Double
@@ -13,7 +13,7 @@ Titles Read: 0/22
 - The Village of Stepanchikovo (The Friend of the Family)
 - Humiliated and Insulted
 - The House of the Dead
-- ~~Notes from the Underground~~ - *Read on 2021-03-05*
+- ~~Notes from the Underground~~ - _Read on 2021-03-05_
 - Crime and Punishment
 - The Gambler
 - The Idiot
@@ -22,7 +22,7 @@ Titles Read: 0/22
 - The Adolescent
 - The Brothers Karamazov
 
-### Short Stories
+**Short Stories**
 
 - Mr. Prokarchin
 - Novel in Nine Letters

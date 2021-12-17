@@ -10,6 +10,8 @@ externalLink = ""
 series = []
 +++
 
+# Complexity
+
 I'm a creator. Even something as "simple" as making a candle is extraordinarily complex. The thing is, that's okay, and even the way things should be.
 
 Take something like Excel, for example, which is probably one of the most used pieces of software in the world. Now, if we presume that programming is trivial (which it most certainly _isn't_), Excel itself is a rabbit hole of features, to the point that Amazon can release a repository just about computer vision in Excel with only formulae.[^1] This is an insanely complex field of AI expressed in a spreadsheet application. And we haven't even touched on VBA, macros, and plug-ins yet (but they are beyond the scope of this post).

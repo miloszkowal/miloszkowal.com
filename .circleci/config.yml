@@ -1,6 +1,30 @@
 version: 2.1
 
 jobs:
+  # Tests
+  whitespace_checks:
+    docker:
+      - image: cimg/base:stable
+    resource_class: small
+    steps:
+      - checkout
+      - run:
+          name: "Trailing Whitespace Check"
+          command: tests/check_trailing_whitespace.sh
+      - run:
+          name: "Trailing Newline Check"
+          command: tests/check_trailing_newline.sh
+
+  markdown_linting:
+    docker:
+      - image: davidanson/markdownlint-cli2:0.3.0
+    resource_class: small
+    steps:
+      - checkout
+      - run:
+          name: "Markdown Linting"
+          command: tests/lint_markdown.sh
+
   build:
     docker:
       - image: peaceiris/hugo:v0.89.4
@@ -19,6 +43,18 @@ jobs:
           root: ./
           paths:
             - "public"
+            - "tests"
+
+  lint_html:
+    docker:
+      - image: mtlynch/htmlproofer:latest
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: "Check HTML"
+          command: tests/lint_html.sh
 
   netlify_deploy:
     docker:
@@ -35,6 +71,14 @@ jobs:
           command: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --prod
 
 workflows:
+  test:
+    jobs:
+      - whitespace_checks
+      - markdown_linting
+      - build
+      - lint_html:
+          requires:
+            - build
   deploy:
     jobs:
       - build
