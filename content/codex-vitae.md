@@ -4,9 +4,9 @@ title: Codex Vitae
 
 # Codex Vitae
 
-### In General
+## In General
 
-#### Meta-beliefs
+### Meta-beliefs
 
 - Beliefs are subject to change. It is important to maintain an open mind to differing perspectives and admitting when one's own views and principles are incorrect or flawed.
 

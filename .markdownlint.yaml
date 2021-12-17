@@ -10,7 +10,7 @@ MD001: true
 # MD002/first-heading-h1/first-header-h1 - First heading should be a top-level heading
 MD002:
   # Heading level
-  level: 2
+  level: 1
 
 # MD003/heading-style/header-style - Heading style
 MD003:
@@ -95,14 +95,10 @@ MD024:
   siblings_only: false
 
 # MD025/single-title/single-h1 - Multiple top-level headings in the same document
-MD025:
-  # Heading level
-  level: 1
-  # RegExp for matching title in front matter
-  front_matter_title: "^\\s*title\\s*[:=]"
+MD025: false
 
 # MD026/no-trailing-punctuation - Trailing punctuation in heading
-MD026: false
+MD026: true
 
 # MD027/no-multiple-space-blockquote - Multiple spaces after blockquote symbol
 MD027: true
