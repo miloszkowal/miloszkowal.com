@@ -53,7 +53,7 @@ jobs:
           at: ./
       - run:
           name: "Check HTML"
-          command: tests/lint_html
+          command: tests/lint_html.sh
 
   netlify_deploy:
     docker:
