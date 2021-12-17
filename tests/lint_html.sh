@@ -38,3 +38,4 @@ htmlproofer "$BUILD_DIR" \
   `# requests, so ignore those.` \
   --http-status-ignore "400,429" \
   "$htmlproofer_args_extra"
+  
