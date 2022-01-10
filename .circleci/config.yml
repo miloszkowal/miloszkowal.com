@@ -73,7 +73,26 @@ jobs:
           name: "Check HTML"
           command: tests/lint_html.sh
 
-  netlify_deploy:
+  draft_deploy:
+    docker:
+      - image: cimg/node:16.13.1
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Remove base tag from generated HTML
+          command: find public -name "*.html" -exec sed -i -e 's/<base[^>]*>//g' {} +
+      - run:
+          name: "Install Netlify CLI"
+          command: "npm install netlify-cli --save-dev"
+      - run:
+          name: "Deploy"
+          command: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN
+      - notify_slack_error
+      - notify_slack_pass
+
+  production_deploy:
     docker:
       - image: cimg/node:16.13.1
     resource_class: small
