@@ -26,15 +26,15 @@ htmlproofer "$BUILD_DIR" \
   --allow-hash-href \
   --empty-alt-ignore \
   --file-ignore "public/collect-debt/full-emails/index.html" \
-  `# Swap URLs https://miloszkowal.com/ for / so that htmlproofer checks the local` \
-  `# build rather than the production URLs. At the time this check runs, the` \
-  `# site has not yet deployed, so htmlproofer shouldn't try to hit the real` \
-  `# miloszkowal.com server to verify that URLs are present.` \
+  # Swap URLs https://miloszkowal.com/ for / so that htmlproofer checks the local
+  # build rather than the production URLs. At the time this check runs, the
+  # site has not yet deployed, so htmlproofer shouldn't try to hit the real
+  # miloszkowal.com server to verify that URLs are present.
   --url-swap "https\://miloszkowal.com/:/" \
-  `# Ignore the following URLs because they get 403 errors from CI` \
-  `# intermittently.` \
-  --url-ignore "/vimeo.com/,/upwork.com/,/www.amd.com/,/mediagoblin-v5lmqis51k.herokuapp.com/,/servernope.com/,/gusto.com/,/vmware.com/" \
-  `# Some sites return HTTP 400/429 - No Error when HTMLProofer sends ` \
-  `# requests, so ignore those.` \
+  # Ignore the following URLs because they get 403 errors from CI`
+  # intermittently.
+  # --url-ignore "/vimeo.com/,/upwork.com/,/www.amd.com/,/mediagoblin-v5lmqis51k.herokuapp.com/,/servernope.com/,/gusto.com/,/vmware.com/"
+  # Some sites return HTTP 400/429 - No Error when HTMLProofer sends
+  # requests, so ignore those.
   --http-status-ignore "400,429" \
   "$htmlproofer_args_extra"
