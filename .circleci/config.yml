@@ -1,7 +1,21 @@
 version: 2.1
+orbs:
+  slack: circleci/slack@4.5.2
+
+commands:
+  notify_slack_error:
+    steps:
+      - slack/notify:
+          event: fail
+          template: basic_fail_1
+
+  notify_slack_pass:
+    steps:
+      - slack/notify:
+          event: pass
+          template: basic_success_1
 
 jobs:
-  # Tests
   whitespace_checks:
     docker:
       - image: cimg/base:stable
@@ -14,6 +28,7 @@ jobs:
       - run:
           name: "Trailing Newline Check"
           command: tests/check_trailing_newline.sh
+      - notify_slack_error
 
   markdown_linting:
     docker:
@@ -24,6 +39,7 @@ jobs:
       - run:
           name: "Markdown Linting"
           command: tests/lint_markdown.sh
+      - notify_slack_error
 
   build:
     docker:
@@ -44,6 +60,7 @@ jobs:
           paths:
             - "public"
             - "tests"
+      - notify_slack_error
 
   lint_html:
     docker:
@@ -55,6 +72,7 @@ jobs:
       - run:
           name: "Check HTML"
           command: tests/lint_html.sh
+      - notify_slack_error
 
   netlify_deploy:
     docker:
@@ -69,6 +87,8 @@ jobs:
       - run:
           name: "Deploy"
           command: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --prod
+      - notify_slack_error
+      - notify_slack_pass
 
 workflows:
   test-and-deploy:
