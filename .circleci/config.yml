@@ -72,8 +72,6 @@ jobs:
       - run:
           name: "Check HTML"
           command: tests/lint_html.sh
-      - notify_slack_error
-      - notify_slack_pass
 
   netlify_deploy:
     docker:
@@ -100,7 +98,16 @@ workflows:
       - lint_html:
           requires:
             - build
-      - netlify_deploy:
+      - draft_deploy:
+          requires:
+            - whitespace_checks
+            - markdown_linting
+            - build
+            - lint_html
+          filters:
+            branches:
+              ignore: master
+      - production_deploy:
           requires:
             - whitespace_checks
             - markdown_linting
