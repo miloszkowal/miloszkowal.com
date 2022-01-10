@@ -73,6 +73,7 @@ jobs:
           name: "Check HTML"
           command: tests/lint_html.sh
       - notify_slack_error
+      - notify_slack_pass
 
   netlify_deploy:
     docker:
