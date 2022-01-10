@@ -71,7 +71,7 @@ jobs:
           command: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --prod
 
 workflows:
-  test:
+  test-and-deploy:
     jobs:
       - whitespace_checks
       - markdown_linting
@@ -79,12 +79,13 @@ workflows:
       - lint_html:
           requires:
             - build
-  deploy:
-    jobs:
-      - build
       - netlify_deploy:
           requires:
+            - whitespace_checks
+            - markdown_linting
             - build
+            - lint_html
           filters:
             branches:
-              only: master
+              only:
+                - master
