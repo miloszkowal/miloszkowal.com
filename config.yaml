@@ -34,9 +34,9 @@ languages:
 
     menu:
       main:
-        - identifier: blog
-          name: Blog
-          url: /posts
         - identifier: about
           name: About
           url: /about
+        - identifier: blog
+          name: Blog
+          url: /posts
