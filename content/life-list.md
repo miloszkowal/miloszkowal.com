@@ -17,7 +17,7 @@ Inspired by [John Goddard](https://johngoddard.info/life_list.htm) and [Raptitud
 ## Finance
 
 - ~~Earn a six-figure salary / income~~ -- _Completed on April 22, 2020_
-- Start a cottage industry
+- Start a [ramen profitable](http://www.paulgraham.com/ramenprofitable.html) business
 - Live on less than 15K USD / year
 - Live on less than 10K USD / year
 - Live on less than 5K USD / year
