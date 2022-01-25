@@ -90,7 +90,6 @@ jobs:
           name: "Deploy"
           command: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN
       - notify_slack_error
-      - notify_slack_pass
 
   production_deploy:
     docker:
@@ -106,7 +105,6 @@ jobs:
           name: "Deploy"
           command: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --prod
       - notify_slack_error
-      - notify_slack_pass
 
 workflows:
   test-and-deploy:
