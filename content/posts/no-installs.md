@@ -2,7 +2,7 @@
 title: "No Installs"
 date: 2022-02-12T19:20:16-05:00
 author: Milosz Kowal
-draft: true
+draft: false
 tags: ["technology"]
 ---
 
