@@ -41,6 +41,18 @@ jobs:
           command: tests/lint_markdown.sh
       - notify_slack_error
 
+  check_google_analytics:
+    docker:
+      - image: cimg/base:stable
+    resource_class: small
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ./
+      - run:
+          name: "Check for Google Analytics Token"
+          command: tests/check_google_analytics_token.sh
+
   build:
     docker:
       - image: peaceiris/hugo:v0.89.4
@@ -115,6 +127,9 @@ workflows:
       - lint_html:
           requires:
             - build
+      - check_google_analytics:
+          requires:
+            - build
       - draft_deploy:
           requires:
             - whitespace_checks
@@ -130,6 +145,7 @@ workflows:
             - markdown_linting
             - build
             - lint_html
+            - check_google_analytics
           filters:
             branches:
               only:

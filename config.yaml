@@ -2,7 +2,7 @@ baseUrl: /
 languageCode: en-us
 theme: smol
 paginate: 10
-googleAnalytics: UA-35775134-5
+googleAnalytics: G-V39NQ0VG66
 
 params:
   # dir name of your blog content (default is `content/posts`)
