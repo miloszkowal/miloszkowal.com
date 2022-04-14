@@ -3,6 +3,7 @@ languageCode: en-us
 theme: smol
 paginate: 10
 googleAnalytics: G-V39NQ0VG66
+enableRobotsTXT: true
 
 params:
   # dir name of your blog content (default is `content/posts`)
