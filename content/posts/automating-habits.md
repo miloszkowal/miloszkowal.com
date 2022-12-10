@@ -39,7 +39,7 @@ Two of the three habits here are health-related, so we will be dealing with the 
 
 ## Meditation
 
-First of all, why meditate? There are numerous studies that show the benefits of meditation, but the key point that I personally take away from the practice is an increased attention span.[^1][^2] Think of meditation as a Pomodoro for your brain. Every time you complete a meditation session, it's like completing a session of focused work. That exercise of mindfulness carries over to everything you do, particularly creative pursuits like programming and design.
+First of all, why meditate? There are numerous studies that show the benefits of meditation, but the key point that I personally take away from the practice is an increased attention span. [^1] [^2] Think of meditation as a Pomodoro for your brain. Every time you complete a meditation session, it's like completing a session of focused work. That exercise of mindfulness carries over to everything you do, particularly creative pursuits like programming and design.
 
 For meditation, I use the [Calm.com](https://www.calm.com/) app. This is plugged into HealthKit and creates an entry in the Mindful Minutes category every time I finish a meditation session. Since it's in the Health app, we can access it using Shortcuts, under the "Find Health Samples Where" command. This allows me to specify the type as Mindful Minutes, and the start date being today (since we're only interested in the current day's habits). You can specify additional filters if you wish with the "Add Filter" button, but we only really need to ensure that our entry returns, without much care for what's returned in it (for now).
 
@@ -57,7 +57,7 @@ Once we have this, we can do the same as above, and check whether we walked or r
 
 ## Gratitude
 
-Gratitude is an interesting habit, since it's generally not thought of as an action. According to many published psychologists, expressing gratitude (or receiving it, when expressed by a manager) leads to a better overall outlook on life.[^5][^6] I personally try to practice gratitude every day, even if it is something as simple as saying that "I'm grateful for the way the sky looked today." Even something as seemingly trivial as that has already had a marked impact on my mental and emotional well-being.
+Gratitude is an interesting habit, since it's generally not thought of as an action. According to many published psychologists, expressing gratitude (or receiving it, when expressed by a manager) leads to a better overall outlook on life. [^5] [^6] I personally try to practice gratitude every day, even if it is something as simple as saying that "I'm grateful for the way the sky looked today." Even something as seemingly trivial as that has already had a marked impact on my mental and emotional well-being.
 
 Since gratitude is more of a writing habit, it makes sense to track it using the Notes app. Siri Shortcuts allows us to create notes using any text we pass as input. For the purposes of this demonstration, we will assume that you want to keep track of what you're grateful for in individual notes, and you don't use any other form of journaling for your gratitude journal. Another take for this is asking the user whether they've created an entry in their gratitude journal (since I do my writing manually in a physical notebook, that's the route that makes more sense for me).
 
