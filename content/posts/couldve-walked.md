@@ -26,5 +26,5 @@ This problem of Silicon Valley pontification is only going to get worse as these
 
 [^1]: https://youtu.be/IP-rGJKSZ3s
 [^2]: https://www.sfmta.com/routes/25-treasure-island
-[^3]: https://www.nytimes.com/2019/09/11/business/economy/uber-california-bill.html
+[^3]: https://archive.ph/APqwG
 [^4]: https://www.sfmta.com/bicycle-ridership-data-1
