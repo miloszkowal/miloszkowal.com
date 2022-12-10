@@ -18,12 +18,12 @@ jobs:
       - run: tests/check_trailing_newline.sh
   lint_markdown:
     runs-on: ubuntu-22.04
-    container:
-      image: davidanson/markdownlint-cli2:v0.5.1
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - run: tests/lint_markdown.sh
+      - uses: DavidAnson/markdownlint-cli2-action@v8
+        with:
+          globs: 'content/**/*.md'
   build_website:
     runs-on: ubuntu-22.04
     steps:
