@@ -26,7 +26,7 @@ jobs:
           command: config
           globs: |
             tests/custom.markdownlint.yaml
-            'content/**/*.md'
+            content/**/*.md
   build_website:
     runs-on: ubuntu-22.04
     steps:
