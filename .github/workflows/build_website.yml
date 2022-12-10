@@ -10,14 +10,14 @@ on:
 
 jobs:
   check_whitespace:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - run: tests/check_trailing_whitespace.sh
       - run: tests/check_trailing_newline.sh
   lint_markdown:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     container:
       image: davidanson/markdownlint-cli2:0.3.0
     steps:
@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v3
       - run: tests/lint_markdown.sh
   build_website:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -46,7 +46,7 @@ jobs:
             public/
             tests/
   google_analytics_check:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     needs: build_website
     steps:
       - name: Checkout
@@ -57,7 +57,7 @@ jobs:
           name: public_website
       - run: tests/check_google_analytics_token.sh
   lint_html:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     container:
       image: mtlynch/htmlproofer:3.15.0
     needs: build_website
