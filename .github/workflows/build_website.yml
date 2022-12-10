@@ -19,7 +19,7 @@ jobs:
   lint_markdown:
     runs-on: ubuntu-22.04
     container:
-      image: davidanson/markdownlint-cli2:0.3.0
+      image: davidanson/markdownlint-cli2:0.5.1
     steps:
       - name: Checkout
         uses: actions/checkout@v3
