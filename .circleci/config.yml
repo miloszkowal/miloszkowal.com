@@ -1,57 +1,6 @@
 version: 2.1
-orbs:
-  slack: circleci/slack@4.5.2
-
-commands:
-  notify_slack_error:
-    steps:
-      - slack/notify:
-          event: fail
-          template: basic_fail_1
-
-  notify_slack_pass:
-    steps:
-      - slack/notify:
-          event: pass
-          template: basic_success_1
 
 jobs:
-  whitespace_checks:
-    docker:
-      - image: cimg/base:stable
-    resource_class: small
-    steps:
-      - checkout
-      - run:
-          name: "Trailing Whitespace Check"
-          command: tests/check_trailing_whitespace.sh
-      - run:
-          name: "Trailing Newline Check"
-          command: tests/check_trailing_newline.sh
-      - notify_slack_error
-
-  markdown_linting:
-    docker:
-      - image: davidanson/markdownlint-cli2:0.3.0
-    resource_class: small
-    steps:
-      - checkout
-      - run:
-          name: "Markdown Linting"
-          command: tests/lint_markdown.sh
-      - notify_slack_error
-
-  check_google_analytics:
-    docker:
-      - image: cimg/base:stable
-    resource_class: small
-    steps:
-      - checkout
-      - attach_workspace:
-          at: ./
-      - run:
-          name: "Check for Google Analytics Token"
-          command: tests/check_google_analytics_token.sh
 
   build:
     docker:
