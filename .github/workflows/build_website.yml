@@ -45,7 +45,7 @@ jobs:
           path: |
             public/
             tests/
-  google_analytics_check:
+  check_google_analytics:
     runs-on: ubuntu-22.04
     needs: build_website
     steps:
@@ -70,3 +70,49 @@ jobs:
           name: public_website
       - name: Check HTML
         run: tests/lint_html.sh
+  draft_deploy:
+    runs-on: ubuntu-22.04
+    needs: [check_whitespace, lint_markdown, build_website, lint_html]
+    if: ${{ github.ref_name != 'master' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+      - name: Get Artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: public_website
+      - run: find public -name "*.html" -exec sed -i -e 's/<base[^>]*>//g' {} +
+      - run: npm install netlify-cli --save-dev
+      - shell: bash
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_ACCESS_TOKEN: ${{ secrets.NETLIFY_ACCESS_TOKEN }}
+        run: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site "$NETLIFY_SITE_ID" --auth "$NETLIFY_ACCESS_TOKEN"
+  prod_deploy:
+    runs-on: ubuntu-22.04
+    needs:
+      [
+        check_whitespace,
+        lint_markdown,
+        build_website,
+        lint_html,
+        check_google_analytics,
+      ]
+    if: ${{ github.ref_name == 'master' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+      - name: Get Artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: public_website
+      - run: npm install netlify-cli --save-dev
+      - shell: bash
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_ACCESS_TOKEN: ${{ secrets.NETLIFY_ACCESS_TOKEN }}
+        run: DEBUG=* ./node_modules/.bin/netlify deploy --dir=public --site "$NETLIFY_SITE_ID" --auth "$NETLIFY_ACCESS_TOKEN" --prod
