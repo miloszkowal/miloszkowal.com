@@ -48,7 +48,7 @@ jobs:
           path: |
             public/
             tests/
-  check_google_analytics:
+  check_beam_analytics:
     runs-on: ubuntu-22.04
     needs: build_website
     steps:
@@ -58,7 +58,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: public_website
-      - run: tests/check_google_analytics_token.sh
+      - run: tests/check_beam_analytics_token.sh
   lint_html:
     runs-on: ubuntu-22.04
     container:
@@ -101,7 +101,7 @@ jobs:
         lint_markdown,
         build_website,
         lint_html,
-        check_google_analytics,
+        check_beam_analytics,
       ]
     if: ${{ github.ref_name == 'master' }}
     steps:
