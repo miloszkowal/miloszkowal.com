@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
+	<script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="19abd765-a363-481e-b45c-f6d608a42476" async></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,8 +17,6 @@
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
-	{{ template "_internal/google_analytics.html" . }}
-	<!-- {{ template "_internal/google_analytics_async.html" . }} -->
 </head>
 <body>
 	{{ partial "header" . }}
