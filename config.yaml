@@ -2,7 +2,6 @@ baseUrl: /
 languageCode: en-us
 theme: smol
 paginate: 10
-googleAnalytics: G-V39NQ0VG66
 enableRobotsTXT: true
 
 params:
