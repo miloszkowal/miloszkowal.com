@@ -28,10 +28,10 @@ Even more importantly, what happens during a recession, an injury, or anything e
 
 By embracing complexity, one becoes independent of the systems that claim to make things simple, but in reality shield the individual from the complexity of living itself. These systems are fragile and should _not_ be relied on, since their expected growth at the hands of profit-seeking shareholders is simply unsustainable.
 
-# References
+## References
 
 [^1]: https://github.com/amzn/computer-vision-basics-in-microsoft-excel
 [^2]: https://www.cnbc.com/2017/04/28/i-got-a-2-million-bonus-and-i-was-never-more-miserable-commentary.html
 [^3]: https://hackernoon.com/barely-scraping-by-with-a-250-000-salary-in-silicon-valley-d2b5d665c1c0
-[^4]: https://www.marketwatch.com/story/this-budget-shows-how-a-350000-salary-barely-qualifies-as-middle-class-2019-09-11
+[^4]: https://archive.is/lRy0U
 [^5]: https://www.financialsamurai.com/scraping-by-on-500000-a-year-high-income-earners-struggling/
