@@ -27,3 +27,4 @@ done < <(git ls-files \
     --binary-files=without-match)
 
 exit "${exitcode}"
+

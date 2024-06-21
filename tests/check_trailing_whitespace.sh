@@ -9,7 +9,7 @@ set -e
 # Exit on unset variable.
 set -u
 
-if egrep \
+if grep -E \
   "\s$" \
   --line-number \
   --binary-files=without-match \
@@ -19,3 +19,4 @@ if egrep \
   echo "ERROR: Found trailing whitespace";
   exit 1;
 fi
+

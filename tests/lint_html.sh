@@ -28,3 +28,4 @@ htmlproofer "$BUILD_DIR" \
   --url-swap "https\://miloszkowal.com/:/" \
   --http-status-ignore "400,429" \
   "$htmlproofer_args_extra"
+

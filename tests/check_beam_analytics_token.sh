@@ -15,3 +15,4 @@ if ! grep "${BEAM_TOKEN}" "$BUILD_DIR" -R; then
   echo "ERROR: Beam Analytics token didn't appear in prod build!";
   exit 1;
 fi
+
