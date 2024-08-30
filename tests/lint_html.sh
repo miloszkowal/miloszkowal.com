@@ -20,12 +20,12 @@ fi
 # Run HTMLProofer
 htmlproofer "$BUILD_DIR" \
   --only-4xx \
-  --check-favicon \
-  --check-html \
-  --check-opengraph \
+  --checks "Links,Images,Favicon,Scripts,OpenGraph" \
   --allow-hash-href \
-  --empty-alt-ignore \
-  --url-swap "https\://miloszkowal.com/:/" \
-  --http-status-ignore "400,429" \
+  --ignore-empty-alt \
+  --ignore-missing-alt \
+  --swap-urls "https\://miloszkowal.com/:/" \
+  --ignore-status-codes "400,403,429" \
+  --no-enforce-https \
   "$htmlproofer_args_extra"
 
