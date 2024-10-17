@@ -83,7 +83,6 @@ jobs:
         lint_html,
         check_beam_analytics,
       ]
-    if: ${{ github.ref_name == 'master' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
