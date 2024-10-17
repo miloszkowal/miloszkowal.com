@@ -22,6 +22,7 @@ Personal Principles
 ---
 
 ### Self-care
+
 #### Productivity
 
 - Productivity is not just a state of being, it is a philosophy.
@@ -155,7 +156,9 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 ---
 
 ### Influences - A Personal Canon
+
 #### Concepts
+
 #### Books, Media
 
 - _One Hundred Years of Solitude_ - Gabriel Garcia Marquez
