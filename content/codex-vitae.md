@@ -22,7 +22,6 @@ Personal Principles
 ---
 
 ### Self-care
-
 #### Productivity
 
 - Productivity is not just a state of being, it is a philosophy.
@@ -138,15 +137,6 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 
 - Society is simply a collection of individuals. All policies should go down to the level of the individual as opposed to the level of the group.
 
-<!-- #### Politics
-
-- Socialism doesn't work. It never has and it never will.
-- People need to be able to peacefully protest against government
-- Free speech is paramount to a civilization's success
-- Free speech is absolute - "hate speech" is free speech
-  - This does not mean that the author condones or agrees with hateful remarks
-- Democracies work. They're not perfect, but it's the best we have at this point. -->
-
 ---
 
 ### Predictions
@@ -165,9 +155,7 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 ---
 
 ### Influences - A Personal Canon
-
 #### Concepts
-
 #### Books, Media
 
 - _One Hundred Years of Solitude_ - Gabriel Garcia Marquez
