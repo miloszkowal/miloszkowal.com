@@ -4,14 +4,15 @@ Title: Personal Library
 
 This is a (growing) list of books that I own. I use the Library of Congress classification schema.
 
-# H: Social Sciences
-
-# HG: Finance
-
-Schroeder, Alice - The Snowball: Warren Buffett and the Business of Life
-
 # P: Language and Literature
 
 ## PS: American Literature
 
 Abrams, JJ and Doug Dorst - S.
+Danielewski, Mark Z. - House of Leaves
+
+# T: Technology
+## TT: Handicrafts
+
+Reader's Digest - The Complete Do-it-yourself Manual
+
