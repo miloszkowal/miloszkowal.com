@@ -4,6 +4,7 @@ date: 2021-02-06T17:20:58-05:00
 author: Milosz Kowal
 draft: false
 tags: ["book review"]
+summary: "A review of Matthew B. Crawford's book, which explores the nature of learning and how it is tied to the world around us."
 ---
 
 **Rating:** 7.5/10

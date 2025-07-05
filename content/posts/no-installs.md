@@ -4,6 +4,7 @@ date: 2022-02-12T15:00:00-05:00
 author: Milosz Kowal
 draft: false
 tags: ["technology"]
+summary: "I don't install dependencies on my computer when it comes to development. I use Docker for everything."
 ---
 
 I don't install any dependencies on my computer when it comes to development. Well, I do install one, and it is the most important one:

@@ -1,11 +1,7 @@
 #!/bin/bash
 
 # Echo commands to console.
-set -x
-# Exit on first failing command.
-set -e
-# Exit on unset variable.
-set -u
+set -xeu
 
 BUILD_DIR=public
 

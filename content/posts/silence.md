@@ -4,6 +4,7 @@ date: 2020-08-18T18:13:40-04:00
 author: Milosz Kowal
 draft: false
 tags: ["philosophy", "technology"]
+summary: "A reflection on the pervasive nature of modern technology and its impact on human thought and society."
 ---
 
 # Introduction, or The Absolute State of Modern Society

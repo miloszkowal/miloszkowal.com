@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+summary = "A look at the interface of Pokemon Go"
 +++
 
 # Overview

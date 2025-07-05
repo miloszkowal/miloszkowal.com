@@ -4,6 +4,7 @@ date: 2020-05-09
 author: Milosz Kowal
 draft: false
 tags: ["technology", "food"]
+summary: "How the Theater Mode on Apple Watch can help redefine your relationship with the device and promote digital minimalism."
 ---
 
 # Theater Mode on Apple Watch

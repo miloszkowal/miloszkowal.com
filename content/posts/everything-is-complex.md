@@ -8,6 +8,7 @@ tags = ["philosophy"]
 categories = []
 externalLink = ""
 series = []
+summary = "Complexity is a fundamental part of life, and embracing it leads to independence and resilience."
 +++
 
 # Complexity
